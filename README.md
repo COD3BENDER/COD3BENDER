@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarekqmul" alt="tarekqmul" /></a> </p>
 
-- 🌱 I’m currently learning **Full stack Development, TensorFlow and Data structures**
+- 🌱 I’m currently learning **Full stack Development, TensorFlow, Office Add-ins and Data structures**
 
 - 💬 Ask me about **Neural Networks, Path Planning, Genetic Algorithms**
 
