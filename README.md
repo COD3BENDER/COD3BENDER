@@ -2,6 +2,7 @@
 <h3 align="center">A fan of innovation</h3>
 
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tarekqmul&show_icons=true&locale=en&layout=compact" alt="tarekqmul" /></p>
 - 🌱 I’m currently learning **Full stack Development, TensorFlow, Office Add-ins and Data structures**
 
 - 💬 Ask me about **Neural Networks, Path Planning, Genetic Algorithms**
