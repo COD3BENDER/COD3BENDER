@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tarek Ahmed</h1>
 <h3 align="center">A fan of innovation</h3>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=tarekqmul&show_icons=true&locale=en" alt="tarekqmul" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tarekqmul&show_icons=true&locale=en" alt="tarekqmul" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tarekqmul&show_icons=true&locale=en&layout=compact" alt="tarekqmul" /></p>
 
