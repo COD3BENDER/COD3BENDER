@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tarek Ahmed</h1>
 <h3 align="center">A fan of innovation</h3>
 
-![Tarek's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Tarek's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarekQMUL&show_icons=true&theme=radical)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tarekqmul&show_icons=true&locale=en&layout=compact" alt="tarekqmul" /></p>
 
