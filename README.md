@@ -19,6 +19,7 @@
 
 [![Codewars Badge](https://www.codewars.com/users/TarekQMUL/badges/large)](https://www.codewars.com/users/TarekQMUL)
 
+<h3 align="left">Github Stats:</h3>
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarekqmul" alt="tarekqmul" />
