@@ -10,8 +10,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tarek-u-ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tarek-u-ahmed" height="30" width="40" /></a>
-</p>
 ![Codewars](https://github.r2v.ch/codewars?user=TarekQMUL&stroke=%23BB432C)
+</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
