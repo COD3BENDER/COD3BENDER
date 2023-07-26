@@ -24,7 +24,6 @@
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarekqmul" alt="tarekqmul" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tarekqmul&show_icons=true&locale=en&layout=compact" alt="tarekqmul" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TarekQMUL&show_icons=true&locale=en" alt="TarekQMUL" />
 </p>
 
 
