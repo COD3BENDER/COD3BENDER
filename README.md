@@ -26,8 +26,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tarekqmul&show_icons=true&locale=en&layout=compact" alt="tarekqmul" />
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TarekQMUL)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 
