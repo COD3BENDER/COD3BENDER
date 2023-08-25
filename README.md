@@ -1,4 +1,3 @@
-# About Me:
 Driven Software Developer skilled at finding reliable solutions to complex issues. Experienced in Software Development and Artificial Intelligence, with expertise in Java and Python. Eager to expand my knowledge, I have undertaken a Full Stack Engineering Bootcamp to increase versatility which would allow me to tackle problems with a wider range of tools, offering tailored and efficient solutions. By combining my previous experience in AI with the knowledge from the BNTA Bootcamp, my aspirations are to develop cutting edge software solutions that have a positive impact on industries and society.
 
 
