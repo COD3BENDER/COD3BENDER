@@ -1,4 +1,4 @@
-"Life, unlike a Git repository, forces us to commit to every decision without the luxury of testing or rolling back. In this unforgiving reality, each choice becomes a permanent commitment, leaving us with no room for trial and error."
+_"Life, unlike a Git repository, forces us to commit to every decision without the luxury of testing or rolling back. In this unforgiving reality, each choice becomes a permanent commitment, leaving us with no room for trial and error."_
 
 
 
