@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&pause=1000&color=F70000&center=true&random=false&width=435&lines=Hi%2C+Im+Tarek;Full+Stack+Developer;Machine+Learning+%2F+Deep+Learning;Welcome+to+My+Page)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&pause=1000&color=F70000&center=true&random=false&width=435&lines=Hi%2C+Im+Tarek.+Welcome+to+my+Journey;Full+Stack+Developer;Machine+Learning+%2F+Deep+Learning)](https://git.io/typing-svg)
 
 _"Life, like a Git repository, encourages us to commit to decisions thoughtfully, just as it allows us the wisdom to adapt and evolve. In this ever-changing reality, each choice becomes a meaningful commitment, leaving room for growth and a touch of easy-going resilience."_
 
